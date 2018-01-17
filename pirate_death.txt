@@ -1,0 +1,5 @@
+Your ship has been bombared by a small fleet of
+reevers! You try to fight them off, even if to 
+just escape. But alas, they're weapons are too
+strong for The Heart of Gold... You have perished.
+GAME OVER

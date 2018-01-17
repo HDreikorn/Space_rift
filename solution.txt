@@ -1,0 +1,11 @@
+Vox goes on, "Long story short theres a info on oots that will
+help you solve the problem...let me know if you want history
+on that. In any case,
+We have come up with the solution that HERB will hopefully be
+on board with. We have devised a program and hardware devices
+that can be installed into HERB that will go undetected. This
+setup will work together to find the drive. You can then upload
+the information on site, it will immediately be sent to us for
+backup and you can also choose to store for yourself. I 
+recommend looking at the contents to see what to do and where
+you should being going to implement the solution."
